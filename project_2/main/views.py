@@ -10,7 +10,9 @@ def index(request):
     if request.method == 'POST':
         form = InputForm(request.POST)
         if form.is_valid():
-            Input.objects.create()
+            input_data = form.cleaned_data['data']
+            input_convert = json.dumps(input_data)
+            Input.objects.create(data=input_data, convert=input_convert)
         else:
             error = 'ERROR!'
 
