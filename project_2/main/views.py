@@ -10,7 +10,6 @@ def index(request):
         form = InputForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('')
         else:
             error = 'ERROR!'
 

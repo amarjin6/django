@@ -9,6 +9,6 @@ class InputForm(ModelForm):
 
         widgets = {
             'data': TextInput(attrs={
-                'class': 'form-control'
+                'class': 'form-control input'
             })
         }
