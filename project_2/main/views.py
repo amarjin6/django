@@ -32,6 +32,7 @@ def index(request):
         'panel': 'Control panel',
         'btn_1': 'add',
         'btn_2': 'submit',
+        'btn_3': 'view',
         'input': inputs,
         'form': form,
         'error': error}
