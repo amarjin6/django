@@ -18,8 +18,8 @@ def index(request):
                 name = 'name' + str(count)
                 input_data = request.POST[name]
                 if input_data:
-                    data = json.dumps(input_data, ensure_ascii=False)
-                    Input.objects.create(data=input_data, convert=data)
+                    input_convert = json.dumps(input_data, ensure_ascii=False)
+                    Input.objects.create(data=input_data, convert=input_convert)
                 count += 1
 
         else:
