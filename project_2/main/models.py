@@ -3,5 +3,9 @@ from django.db.models import JSONField
 
 
 # Create your models here.
-class Mod(models.Model):
-    col = models.CharField(max_length=30)
+class Input(models.Model):
+    data = models.CharField(max_length=30)
+    convert = models.CharField(max_length=30)
+
+    def __str__(self):
+        return self.data

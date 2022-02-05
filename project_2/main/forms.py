@@ -1,8 +1,8 @@
-from django import forms
+from .models import Input
+from django.forms import ModelForm
 
 
-class HomeForm(forms.ModelForm):
-    field = forms.CharField()
-
+class InputForm(ModelForm):
     class Meta:
-        fields = ('field')
+        model = Input
+        fields = ['data', 'convert']

@@ -25,7 +25,10 @@
         <img src="{% static 'main/img/logo.png' %}" alt="Logo">
         <p>{{ panel }}</p>
         <button class="add" onclick="add()">{{ btn_1 }}<ion-icon name="add-circle-outline"></ion-icon></button>
-        <button class="submit">{{ btn_2 }}<ion-icon name="checkmark-circle-outline"></ion-icon></button>
+        <form method="post">
+            {% csrf_token %}
+            <button class="submit" type="submit">{{ btn_2 }}<ion-icon name="checkmark-circle-outline"></ion-icon></button>
+        </form>
     </aside>
     <main>
         {% block content %}
