@@ -5,6 +5,13 @@ from .forms import InputForm
 
 # Create your views here.
 def index(request):
+    error = ''
+    if request.method == 'POST':
+        form = InputForm(request.POST)
+        if form.is_valid()
+            form.save()
+        else:
+            error = 'ERROR!'
     inputs = Input.objects.all()
     form = InputForm
     data = {
@@ -13,5 +20,6 @@ def index(request):
         'btn_1': 'add',
         'btn_2': 'submit',
         'input': inputs,
-        'form': form}
+        'form': form,
+        'error': error}
     return render(request, 'main/index.html', data)
