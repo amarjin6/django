@@ -1,14 +1,12 @@
-from .models import Input
 from django.forms import ModelForm, TextInput
+from django import forms
 
 
-class InputForm(ModelForm):
-    class Meta:
-        model = Input
-        fields = ['data', 'convert']
-
-        widgets = {
-            'data': TextInput(attrs={
-                'class': 'form-control input'
-            })
-        }
+class InputForm(forms.Form):
+    data = forms.CharField(label='data', max_length=30)
+    fields = ['data']
+    widgets = {
+        'data': TextInput(attrs={
+            'class': 'form-control input'
+        })
+    }

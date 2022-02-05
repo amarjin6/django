@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from .models import Input
 from .forms import InputForm
+import json
 
 
 # Create your views here.
@@ -9,7 +10,7 @@ def index(request):
     if request.method == 'POST':
         form = InputForm(request.POST)
         if form.is_valid():
-            form.save()
+            Input.objects.create()
         else:
             error = 'ERROR!'
 
