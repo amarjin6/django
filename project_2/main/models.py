@@ -10,6 +10,6 @@ class Input(models.Model):
     def __str__(self):
         return self.data
 
+
 class View(models.Model):
     data = models.CharField(max_length=30)
-

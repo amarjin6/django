@@ -6,7 +6,9 @@
     {{ input }}
     <form method="post">
             {% csrf_token %}
-            {{ form.data }}
+            <div class="form-group" id="form-group">
+                {{ form.data }}
+            </div>
             <span>{{ error }}</span>
             <button class="submit" type="submit">{{ btn_2 }}<ion-icon name="checkmark-circle-outline"></ion-icon></button>
     </form>
