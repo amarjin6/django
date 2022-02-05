@@ -8,7 +8,7 @@ class Input(models.Model):
     convert = JSONField()
 
     def __str__(self):
-        return self.data
+        return "input: " + self.data + " JSON: " + self.convert
 
 
 class View(models.Model):

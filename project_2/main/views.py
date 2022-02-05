@@ -37,3 +37,10 @@ def index(request):
         'form': form,
         'error': error}
     return render(request, 'main/index.html', data)
+
+
+def view(request):
+    inputs = Input.objects.all()
+    data = {
+        'input': inputs}
+    return render(request, 'main/view.html', data)
