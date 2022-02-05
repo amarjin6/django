@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Input
 from .forms import InputForm
 
@@ -10,8 +10,10 @@ def index(request):
         form = InputForm(request.POST)
         if form.is_valid()
             form.save()
+            return redirect('')
         else:
             error = 'ERROR!'
+
     inputs = Input.objects.all()
     form = InputForm
     data = {

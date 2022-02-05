@@ -28,6 +28,7 @@
         <form method="post">
             {% csrf_token %}
             {{ form.data }}
+            <span>{{ error }}</span>
             <button class="submit" type="submit">{{ btn_2 }}<ion-icon name="checkmark-circle-outline"></ion-icon></button>
         </form>
     </aside>
