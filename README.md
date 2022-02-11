@@ -10,4 +10,4 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
-# django PostgreeSQL
+# django, PostgreeSQL, Python
