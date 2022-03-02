@@ -23,7 +23,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 
 ![1](https://user-images.githubusercontent.com/86531927/156452131-e0f61519-0871-41d2-809a-2e88ba3d4fb6.jpg)
   
-*For more information use the docs folder:* https://github.com/amarjin6/postgrees-json/tree/master/docs/docs.md
+[**For more information use the docs folder**](https://github.com/amarjin6/postgrees-json/tree/master/docs/docs.md)
 
 ## Tests
 Rigorous testing has been carried out by using:
