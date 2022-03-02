@@ -7,7 +7,9 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 ![3](https://user-images.githubusercontent.com/86531927/152681998-bfaa272a-62dc-444a-a7c2-07ca793f7824.png)
 ![jCjFFq87-gQ](https://user-images.githubusercontent.com/86531927/152655074-7b411980-e44e-426d-8ff2-695da47f6bc1.jpg)
 ![wIZtRtKclGk](https://user-images.githubusercontent.com/86531927/152655079-7e3cecd4-9dae-4a7b-947a-a440124f2391.jpg)
+![6](https://user-images.githubusercontent.com/86531927/156430512-4cae9c57-71a2-4f33-9ade-0fe7ebaecd9d.jpg)
+![7](https://user-images.githubusercontent.com/86531927/156430627-30a5bd02-1eda-4fe1-b4e0-feff6143b178.jpg)
 
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
-# django, PostgreeSQL, Python
+# Python, Django, PostgreeSQL, JSON
