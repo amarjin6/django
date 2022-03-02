@@ -11,7 +11,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 ## How to Install
 
 ## How to Use
-
+All necessary information you can find in docs folder:
 ## Tests
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
