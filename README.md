@@ -1,4 +1,5 @@
 # Web page, that writes user data into postgree database as JSON object
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e322e332d626c7565](https://user-images.githubusercontent.com/86531927/156441752-faa6bfe0-1178-45a9-bfc5-feab2f55ee62.svg)
 ## Main task
 Create a form with dynamic addition of inputs, not tied to any model (when you click on the button "add", a new input will appear). Store data in the model in a field of type JSON PostgreeSQL. Display data on another page on button "view".
 
