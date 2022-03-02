@@ -1,3 +1,6 @@
+![GitHub language count](https://img.shields.io/github/languages/count/amarjin6/postgrees-json?color=red&logo=Github) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amarjin6/postgrees-json?label=size)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/amarjin6/postgrees-json?label=activity&logo=Python&logoColor=yellow)
 ## Web page, that writes user data into postgree database as JSON object
 
 ## Main task
