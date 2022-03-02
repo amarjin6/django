@@ -18,8 +18,11 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 * If all the data is valid, the programm will writes it in the Postgree database as data & JSON object, otherwise it will throw an error
 * After that you can look at your database compose by clicking the "view" button on the left of you
 * Completed!
+
+![1](https://user-images.githubusercontent.com/86531927/156452131-e0f61519-0871-41d2-809a-2e88ba3d4fb6.jpg)
   
 *For more information use the docs folder:*
+
 ## Tests
 Rigorous testing has been carried out by using:
 * Unit - testing
