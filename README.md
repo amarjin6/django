@@ -24,7 +24,7 @@ Rigorous testing has been carried out by using:
 * Unit - testing
 * Functional testing
 * Integration testing
-* 
+
 *All tests were completed!* 
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
