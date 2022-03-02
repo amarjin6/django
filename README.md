@@ -20,6 +20,11 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 * Completed!  
 *For more information use the docs folder:*
 ## Tests
+Rigorous testing has been carried out by:
+* Unit - testing
+* Functional testing
+* Integration testing
+*All tests were completed!* 
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
 # Python, Django, PostgreeSQL, JSON
