@@ -9,7 +9,9 @@
 Create a form with dynamic addition of inputs, not tied to any model (when you click on the button "add", a new input will appear). Store data in the model in a field of type JSON PostgreeSQL. Display data on another page on button "view".
 
 ## How to Install
-
+Clone project to your folder
+git clone https://github.com/amarjin6/postgrees-json.git
+# ./server.sh help for more detail
 ## How to Use
 * Run the project in your IDE and open browser
 * There you can add some data into a input field
