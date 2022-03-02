@@ -20,7 +20,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 * Completed!  
 *For more information use the docs folder:*
 ## Tests
-Rigorous testing has been carried out by:
+Rigorous testing has been carried out by using:
 * Unit - testing
 * Functional testing
 * Integration testing
