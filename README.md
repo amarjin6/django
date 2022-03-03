@@ -18,7 +18,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 `'USER': 'Your_user',`    
 `'PASSWORD': 'Your_password',`    
 `'HOST': 'Your_host',`    
-`'PORT': Your_port``}`    
+`'PORT': Your_port }`    
 * **Сarry out [migrations](https://github.com/amarjin6/postgrees-json/tree/master/project_2/main/migrations) if it's necessary:**  
 `python manage.py makemigrations`
 `python manage.py migrate`
