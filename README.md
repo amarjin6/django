@@ -14,15 +14,11 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 * **Set up database connection, fulfill missing strings in [settings](https://github.com/amarjin6/postgrees-json/blob/master/project_2/project_2/settings.py):**  
 `SECRET_KEY = 'Your_secret_key'`      
 `DATABASES = {`      
-    `'default': {`    
-        `'ENGINE': 'django.db.backends.postgresql',`    
-        `'NAME': 'Your_name',`    
-        `'USER': 'Your_user',`    
-        `'PASSWORD': 'Your_password',`    
-        `'HOST': 'localhost',`    
-        `'PORT': 5432`    
-    `}`    
-`}`
+`'NAME': 'Your_name',`    
+`'USER': 'Your_user',`    
+`'PASSWORD': 'Your_password',`    
+`'HOST': 'Your_host',`    
+`'PORT': Your_port``}`    
 * **Сarry out [migrations](https://github.com/amarjin6/postgrees-json/tree/master/project_2/main/migrations) if it's necessary:**  
 `python manage.py makemigrations`
 `python manage.py migrate`
