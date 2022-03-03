@@ -24,8 +24,9 @@ DATABASES = {
     }
 }`
 * **Сarry out [migrations](https://github.com/amarjin6/postgrees-json/tree/master/project_2/main/migrations) if it's necessary:**
-`python manage.py makemigrations
- python manage.py migrate`
+`python manage.py makemigrations`
+
+`python manage.py migrate`
 * **Run project:**
 `python manage.py runserver`
 ## How to Use
