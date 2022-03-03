@@ -38,6 +38,6 @@ This project is compatible for WIndows and Linux Os
 
 ![python-logo (2)](https://user-images.githubusercontent.com/86531927/156536220-5db566c6-9e2d-4c92-a239-2292bad68333.png)
 ![pngwing com (1)](https://user-images.githubusercontent.com/86531927/156533882-4e032fde-da53-4e4d-b0cf-498cbaa98eea.png)
-![kisspng-postgresql-pgadmin-computer-icons-database-depende-elephants-5ad386c474c6b5 5149032415238120364783 (1)](https://user-images.githubusercontent.com/86531927/156535811-a97cac9e-2a30-43b0-85e5-36232d281e7c.png)
+![kisspng-postgresql-pgadmin-computer-icons-database-depende-elephants-5ad386c474c6b5 5149032415238120364783 (2)](https://user-images.githubusercontent.com/86531927/156536817-2becbc13-c4b4-4f49-b133-6c1940e4fd91.png)
 
 # Python, Django, PostgreeSQL, JSON
