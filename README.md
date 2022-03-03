@@ -23,9 +23,8 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
         `'PORT': 5432`    
     `}`    
 `}`
-* **Сarry out [migrations](https://github.com/amarjin6/postgrees-json/tree/master/project_2/main/migrations) if it's necessary:**
+* **Сarry out [migrations](https://github.com/amarjin6/postgrees-json/tree/master/project_2/main/migrations) if it's necessary:**  
 `python manage.py makemigrations`
-
 `python manage.py migrate`
 * **Run project:**
 `python manage.py runserver`
