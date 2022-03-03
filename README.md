@@ -38,7 +38,6 @@ This project is compatible for WIndows and Linux Os
 
 ![python-logo-2](https://user-images.githubusercontent.com/86531927/156534703-48fdcf07-b489-4069-b9f9-c28f02dcbf69.png)
 ![pngwing com (1)](https://user-images.githubusercontent.com/86531927/156533882-4e032fde-da53-4e4d-b0cf-498cbaa98eea.png)
-images.githubusercontent.com/86531927/156533571-354e6fb6-0559-491f-8217-fdbbb1cd0710.png)
 ![postgresql-relational-database-management-system-object-relational-database-database-bd60ee360ee2a395230264814f30c2e7 (1)](https://user-images.githubusercontent.com/86531927/156534754-76659260-74b3-40ad-b762-1e77742bbf77.png)
 
 # Python, Django, PostgreeSQL, JSON
