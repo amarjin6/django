@@ -37,7 +37,7 @@ This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
 
 ![python-logo-2](https://user-images.githubusercontent.com/86531927/156533176-221deafa-9b34-4c61-ac29-3fcb97227c88.png)
-![pn![postgresql-relational-database-management-system-object-relational-database-database-bd60ee360ee2a395230264814f30c2e7](https://user-images.githubusercontent.com/86531927/156533369-c0e9a337-ce5e-4e96-a6e2-da7ff04aa119.png)
-gwing com](https://user-images.githubusercontent.com/86531927/156533359-82c50b30-c382-49d5-8c4f-c01e3d727377.png)
+![pngwing com](https://user-images.githubusercontent.com/86531927/156533544-67dc91ee-cf3b-4dc5-bc5e-813c045ec2d4.png)
+![postgresql-relational-database-management-system-object-relational-database-database-bd60ee360ee2a395230264814f30c2e7](https://user-images.githubusercontent.com/86531927/156533571-354e6fb6-0559-491f-8217-fdbbb1cd0710.png)
 
 # Python, Django, PostgreeSQL, JSON
