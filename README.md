@@ -36,7 +36,7 @@ Rigorous testing has been carried out by using:
 This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
 
-![python-logo-2](https://user-images.githubusercontent.com/86531927/156534703-48fdcf07-b489-4069-b9f9-c28f02dcbf69.png)
+![python-logo (1)](https://user-images.githubusercontent.com/86531927/156536059-bbdf8340-4cd3-460c-936c-67d57e632bbb.png)
 ![pngwing com (1)](https://user-images.githubusercontent.com/86531927/156533882-4e032fde-da53-4e4d-b0cf-498cbaa98eea.png)
 ![kisspng-postgresql-pgadmin-computer-icons-database-depende-elephants-5ad386c474c6b5 5149032415238120364783 (1)](https://user-images.githubusercontent.com/86531927/156535811-a97cac9e-2a30-43b0-85e5-36232d281e7c.png)
 
