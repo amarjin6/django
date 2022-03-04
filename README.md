@@ -8,7 +8,7 @@
 ## Main idea
 Create a form with dynamic addition of inputs, not tied to any model (when you click on the button "add", a new input will appear). Store data in the model in a field of type JSON PostgreeSQL. Display data on another page on button "view".
 
-## How to Install
+## https://github.com/amarjin6/laboratory-work-0-amarjin6#:~:text=%F0%9F%99%82-,%F0%9F%92%BB,-GitHub%20terms%20to How to Install
 * **Clone project to your folder:** `git clone https://github.com/amarjin6/postgrees-json.git`
 * **Check for updates and install all necessary [plugins](https://github.com/amarjin6/postgrees-json/tree/master/requirements)**
 * **Set up database connection, fulfill missing strings in [settings](https://github.com/amarjin6/postgrees-json/blob/master/project_2/project_2/settings.py):**  
