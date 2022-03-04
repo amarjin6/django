@@ -3,6 +3,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amarjin6/postgrees-json?logo=gitbook&logoColor=green)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/amarjin6/postgrees-json/master/2d50390640570bbef9d750d0beaace5fb8f9508a)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/amarjin6/postgrees-json?label=activity&logo=Python&logoColor=yellow)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/amarjin6/postgrees-json?color=purple&include_prereleases)
 ## 📌Web page, that writes user data into postgree database as JSON object🏷
 
 ## 💡Main idea💡
