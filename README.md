@@ -3,7 +3,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amarjin6/postgrees-json?logo=gitbook&logoColor=green)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/amarjin6/postgrees-json/master/2d50390640570bbef9d750d0beaace5fb8f9508a)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/amarjin6/postgrees-json?label=activity&logo=Python&logoColor=yellow)
-## Web page, that writes user data into postgree database as JSON object
+## 📌Web page, that writes user data into postgree database as JSON object🏷
 
 ## 💡Main idea💡
 Create a form with dynamic addition of inputs, not tied to any model (when you click on the button "add", a new input will appear). Store data in the model in a field of type JSON PostgreeSQL. Display data on another page on button "view".
