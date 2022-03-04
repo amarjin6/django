@@ -38,7 +38,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 **For more information use the [docs](https://github.com/amarjin6/postgrees-json/tree/master/docs/docs.md) folder**
 
 ## Tests
-Rigorous testing has been carried out by using:
+**Rigorous testing has been carried out by using:**
 * Unit testing
 * Functional testing
 * Integration testing
