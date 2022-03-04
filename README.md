@@ -5,10 +5,10 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/amarjin6/postgrees-json?label=activity&logo=Python&logoColor=yellow)
 ## Web page, that writes user data into postgree database as JSON object
 
-## Main idea
+## 💡Main idea💡
 Create a form with dynamic addition of inputs, not tied to any model (when you click on the button "add", a new input will appear). Store data in the model in a field of type JSON PostgreeSQL. Display data on another page on button "view".
 
-## How to Install
+## 🔎How to Install🔍
 * **Clone project to your folder:** `git clone https://github.com/amarjin6/postgrees-json.git`
 * **Check for updates and install all necessary [plugins](https://github.com/amarjin6/postgrees-json/tree/master/requirements)**
 * **Set up database connection, fulfill missing strings in [settings](https://github.com/amarjin6/postgrees-json/blob/master/project_2/project_2/settings.py):**  
@@ -24,7 +24,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 `python manage.py migrate`
 * **Run project:**
 `python manage.py runserver`
-## ![image](https://user-images.githubusercontent.com/86531927/156798993-fdad84ed-b29e-47d9-b587-d748dade4849.png) How to Use
+## 🛠How to Use🛠
 * Run the project in your IDE and open browser
 * There you can add some data into a input field
 * If you need one more input - click the button "add" and fulfill another input
@@ -37,7 +37,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
   
 **For more information use the [docs](https://github.com/amarjin6/postgrees-json/tree/master/docs/docs.md) folder**
 
-## Tests
+## 🔐Tests🔐
 **Rigorous testing has been carried out by using:**
 * Unit testing
 * Functional testing
@@ -45,7 +45,7 @@ Create a form with dynamic addition of inputs, not tied to any model (when you c
 
 *All tests were completed!*
 
-This project is compatible for WIndows and Linux Os
+🔑This project is compatible for WIndows and Linux Os
 (Tested on Windows 10 PRO, Linux Manjaro(XFCE, KDE, GNOME))
 
 ![python-logo (2)](https://user-images.githubusercontent.com/86531927/156536220-5db566c6-9e2d-4c92-a239-2292bad68333.png)
